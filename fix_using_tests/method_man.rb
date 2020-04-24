@@ -2,7 +2,7 @@
 
 def start_game(player1, player2)
 # binding.pry
-greeting = "Hello #{player1} & #{playar2}"
+greeting = "Hello #{player1} & #{player2}"
 return greeting
 end
 
